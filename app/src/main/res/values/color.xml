@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="gray_trans">#44555555</color>
+    <color name="gray_a">#CCCCCC</color>
+
+    <color name="button_green">#FF8DC63F</color>
+    <color name="button_green_pushed">#AA8DC63F</color>
+
+    <color name="button_orange">#FFEF5928</color>
+    <color name="button_orange_pushed">#AAEF5928</color>
+
+</resources>

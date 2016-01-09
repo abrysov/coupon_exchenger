@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">VVExchange</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="splash">Splash</string>
+    <string name="enter_secure_code">Please enter password\nto unlock</string>
+    <string name="button_ok">Ok</string>
+    <string name="header_login">Login</string>
+    <string name="code">1234</string>
+    <string name="header_info">Brief instructions</string>
+    <string name="error_invalid_code">Invalid code! Try again.</string>
+    <string name="button_start">Start</string>
+    <string name="info">1.	Scan a Virtual Voucher (QR-code) from JP Rewards app
+                        \n2.	Choose a number of vouchers which customer wants to redeem
+                        \n3.	Enter six-digit codes into iColumn system (field «Remarks»)
+                        \n4.	Give real vouchers to the customer and press «ISSUED» button</string>
+    <string name="header_scaner">Virtual Voucher Scanner</string>
+    <string name="header_one_voucher_found">Issue voucher</string>
+    <string name="voucher_found">Enter this codes into iColumn.</string>
+    <string name="voucher_one_found">Enter this code\ninto iColumn.</string>
+    <string name="enter_this_code">Enter this code into iColumn</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_cancel_ar">Cancel</string>
+    <string name="button_next">Next</string>
+    <string name="header_voucher_spend">Issue vouchers</string>
+    <string name="how_match_vouchers_to_spend">How many vouchers\ndo you want to issue?</string>
+    <string name="enter_these_code_into_icolumn">Enter these codes into iColumn.</string>
+    <string name="header_many_voucher_found">Select quantity of vouchers</string>
+    <string name="error_no_vouchers">No vouchers ! Try another one.</string>
+    <string name="error_invalid_code_request">Error on request code</string>
+    <string name="button_issued">Issued</string>
+    <string name="button_issued_arr">Issued ></string>
+    <string name="message_succes_voucher_spend">Virtual Voucher was redeemed.</string>
+    <string name="message_succes_many_voucher_spend">Virtual Vouchers were redeemed.</string>
+    <string name="succes">Success</string>
+    <string name="error">Error</string>
+    <string name="button_continue">Continue</string>
+    <string name="not_valid_code">The Virtual Voucher was not found!</string>
+    <string name="error_invalid_url">Invalid URL (404)</string>
+    <string name="error_invalid_content">Invalid content request</string>
+    <string name="error_invalid_response">Invalid response</string>
+    <string name="settings_use_pass">Use password</string>
+    <string name="settings_change_pass">Change password</string>
+    <string name="button_change">Change</string>
+    <string name="settings">Settings</string>
+    <string name="error_invalid_pass">Wrong password. Please, try again.</string>
+    <string name="message_succes_changed_pass">Password was changed.</string>
+    <string name="action_blocker">Block</string>
+    <string name="button_block">Block device</string>
+    <string name="button_submit"><![CDATA[Submit >]]></string>
+    <string name="virtual_vouchers">Virtual Vouchers</string>
+    <string name="virtual_voucher">Virtual Vaucher</string>
+    <string name="virtual_vouchers_was_found">Virtual vouchers\nwere found</string>
+    <string name="title_info">How to use VVExchange</string>
+    <string name="error_check_internet">No internet connection.</string>
+    <string name="error_invalid_voucher">Invalid vouchers</string>
+    <string name="error_check_internet_connection">Check internet connection!</string>
+
+</resources>
